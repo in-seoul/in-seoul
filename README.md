@@ -22,7 +22,7 @@ Hi 👋, I'm ㅇㅎㅈ
 - [[치지직 봇 바로가기](https://chzzk.naver.com/2ee5134cd4295162782a87e9ff87c3a3)](#)
 
 ### Discord Bot
-- Description of Discord bot project
+- 아래 서버에서 디스코드 봇을 체험할 수 있어요!
 - [https://discord.gg/7F2mX8mjyb](#)
 
 ## Contact
