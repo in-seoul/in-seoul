@@ -6,7 +6,7 @@ Hi 👋, I'm ㅇㅎㅈ
 **Game developer using Unity Engine**
 
 ## Skills
-- **Languages:** JavaScript, Node.js, C#
+- **Languages:** JavaScript, Node.js, C#, Python(with AI)
 - [Repository Link](#)
 
 ## About Me
