@@ -32,3 +32,7 @@ Hi 👋, I'm ㅇㅎㅈ
 ## Find Me Online
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/in-seoul)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in-seoul)
+
+## TMI
+- 제일 좋아하는 게임 바이오하자드(레지던트이블) 공포게임 류는 좋아합니다.
+- 공포게임은 누가 안 시켜도 합니다!! 추천 받습니다!!
