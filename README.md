@@ -19,7 +19,7 @@ Hi 👋, I'm ㅇㅎㅈ
 ## Projects
 ### chzzk
 - 현재 개발 중인 치지직 봇 입니다! 많은 관심 부탁드립니다!
-- [[치지직 봇 바로가기](https://chzzk.naver.com/2ee5134cd4295162782a87e9ff87c3a3)](#)
+- [치지직 봇 바로가기](https://chzzk.naver.com/2ee5134cd4295162782a87e9ff87c3a3)
 
 ### Discord Bot
 - 아래 서버에서 디스코드 봇을 체험할 수 있어요!
