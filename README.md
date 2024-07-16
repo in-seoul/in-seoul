@@ -1,5 +1,6 @@
 # 안녕하세요 👋, ㅇㅎㅈ입니다
 Hi 👋, I'm ㅇㅎㅈ
+[Repository Link](#)
 
 **chzzk and discord bot developer**
 
@@ -7,7 +8,7 @@ Hi 👋, I'm ㅇㅎㅈ
 
 ## Skills
 - **Languages:** JavaScript, Node.js, C#, Python(with AI)
-- [Repository Link](#)
+- Chat Gpt 조련사
 
 ## About Me
 - Passionate developer with a focus on creating fun and interactive games using the Unity Engine.
