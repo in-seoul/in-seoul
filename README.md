@@ -28,7 +28,7 @@ Hi 👋, I'm ㅇㅎㅈ
 
 ## Contact
 - **Discord:** [디스코드](https://discord.gg/7F2mX8mjyb)
-- **Email:** heungjae060718@naver.com
+- **Email:** hj0607@proton.me
 
 ## Find Me Online
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/in-seoul)
